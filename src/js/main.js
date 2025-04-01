@@ -1,4 +1,5 @@
-import './style.css'; // CSS dosyasını JavaScript'e import edin
+import '../css/style.css'; // Eğer style.css dosyanız src/css içinde ise
+
 
 const formWrapper = document.querySelector("form-wrapper");
 const form = document.querySelector("#form");
