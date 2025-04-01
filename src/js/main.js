@@ -1,4 +1,4 @@
-import '../css/style.css'; // Eğer style.css dosyanız src/css içinde ise
+import '../css/styles.css'; // Eğer style.css dosyanız src/css içinde ise
 
 
 const formWrapper = document.querySelector("form-wrapper");
