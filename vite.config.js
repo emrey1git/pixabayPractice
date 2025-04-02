@@ -6,7 +6,7 @@ import postcssPresetEnv from 'postcss-preset-env';
 
 export default defineConfig(({ command }) => {
   return {
-    base: '/find-photo/',  // GitHub Pages için base URL
+    base: '/pixabayPractice/',  // GitHub Pages için base URL
     define: {
       [command === 'serve' ? 'global' : '_global']: {},
     },
